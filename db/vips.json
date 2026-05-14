@@ -1,1 +1,8 @@
-{}
+{
+  "500501511": {
+    "expiry": "2026-06-13T04:03:24.071Z",
+    "duration": 30,
+    "max_accounts": 1,
+    "min_accounts": 0
+  }
+}

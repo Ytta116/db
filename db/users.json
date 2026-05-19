@@ -1,0 +1,102 @@
+[
+  {
+    "id": 500501511,
+    "username": "pilarf",
+    "first_name": "支柱",
+    "last_name": "",
+    "join_date": "2026-05-19T11:53:04.212Z",
+    "total_spent": 120000,
+    "balance": 220000,
+    "total_deposit": 350000,
+    "history": [
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 100000,
+        "type": "deposit",
+        "timestamp": "2026-05-19T11:53:17.006Z",
+        "details": "Ditambahkan manual oleh owner (+Rp100.000)"
+      },
+      {
+        "product": "Akun ID 5",
+        "amount": 10000,
+        "type": "account",
+        "timestamp": "2026-05-19T12:02:54.474Z",
+        "details": "ACC ID: 5278797717 | Phone: 6285815059685 | Kategori ID: 5"
+      },
+      {
+        "product": "Akun ID 5",
+        "amount": 10000,
+        "type": "account",
+        "timestamp": "2026-05-19T12:12:07.136Z",
+        "details": "ACC ID: 5757177535 | Phone: 6289518819483 | Kategori ID: 5"
+      },
+      {
+        "product": "Akun ID 7",
+        "amount": 5000,
+        "type": "account",
+        "timestamp": "2026-05-19T14:28:30.717Z",
+        "details": "ACC ID: 7720007227 | Phone: 6289515738530 | Kategori ID: 7"
+      },
+      {
+        "product": "Akun ID 7",
+        "amount": 5000,
+        "type": "account",
+        "timestamp": "2026-05-19T14:30:48.784Z",
+        "details": "ACC ID: 7477144747 | Phone: 6285720065638 | Kategori ID: 7"
+      },
+      {
+        "product": "VIP 7 Days / 1 Akun",
+        "amount": 15000,
+        "type": "vip",
+        "timestamp": "2026-05-19T15:03:41.141Z",
+        "details": "Target ID: 7864114521, Maks. Akun: 1, Durasi: 7 hari"
+      },
+      {
+        "product": "VIP 30 Days / 1 Akun",
+        "amount": 45000,
+        "type": "vip",
+        "timestamp": "2026-05-19T15:14:04.316Z",
+        "details": "Target ID: 7864114521, Maks. Akun: 1, Durasi: 30 hari"
+      },
+      {
+        "product": "Kurang Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-05-19T15:19:24.583Z",
+        "details": "Dikurangi manual oleh owner (-Rp250.000)"
+      },
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-05-19T15:19:33.787Z",
+        "details": "Ditambahkan manual oleh owner (+Rp250.000)"
+      },
+      {
+        "product": "VIP 7 Days / 1 Akun",
+        "amount": 15000,
+        "type": "vip",
+        "timestamp": "2026-05-19T15:20:29.011Z",
+        "details": "Target ID: 7864114521, Maks. Akun: 1, Durasi: 7 hari"
+      },
+      {
+        "product": "VIP 7 Days / 1 Akun",
+        "amount": 15000,
+        "type": "vip",
+        "timestamp": "2026-05-19T15:36:23.986Z",
+        "details": "Target ID: 7864114521, Maks. Akun: 1, Durasi: 7 hari"
+      }
+    ]
+  },
+  {
+    "id": 8146735758,
+    "username": "celinnv",
+    "first_name": "𝗰ꫀׅ𝗹𝗶𐓣𝗧",
+    "last_name": "",
+    "join_date": "2026-05-19T15:59:55.074Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  }
+]

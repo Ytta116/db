@@ -43,8 +43,16 @@
     "last_name": "",
     "join_date": "2026-05-23T17:36:44.280Z",
     "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
-    "history": []
+    "balance": 10000,
+    "total_deposit": 10000,
+    "history": [
+      {
+        "product": "Deposit Saldo",
+        "amount": 10000,
+        "type": "deposit",
+        "timestamp": "2026-05-23T17:38:29.988Z",
+        "details": "Deposit: Rp10000"
+      }
+    ]
   }
 ]

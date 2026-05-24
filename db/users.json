@@ -68,5 +68,16 @@
         "details": "Deposit: Rp10000"
       }
     ]
+  },
+  {
+    "id": 8521769255,
+    "username": "juraggans",
+    "first_name": "ReyzGntg",
+    "last_name": "",
+    "join_date": "2026-05-24T10:30:03.190Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

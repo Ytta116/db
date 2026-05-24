@@ -6,8 +6,8 @@
     "last_name": "",
     "join_date": "2026-05-19T16:44:56.879Z",
     "total_spent": 8500,
-    "balance": 41500,
-    "total_deposit": 50000,
+    "balance": 141500,
+    "total_deposit": 150000,
     "history": [
       {
         "product": "Tambah Saldo (Owner)",
@@ -22,6 +22,13 @@
         "type": "account",
         "timestamp": "2026-05-23T08:15:44.061Z",
         "details": "ACC ID: 5828884886 | Phone: 6281381477726 | Kategori ID: 5"
+      },
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 100000,
+        "type": "deposit",
+        "timestamp": "2026-05-24T04:34:45.379Z",
+        "details": "Ditambahkan manual oleh owner (+Rp100.000)"
       }
     ]
   },

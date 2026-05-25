@@ -115,6 +115,13 @@
         "type": "account",
         "timestamp": "2026-05-25T10:23:09.983Z",
         "details": "ACC ID: 6595556891 | Phone: 6285704100978 | Kategori ID: 6"
+      },
+      {
+        "product": "Deposit Saldo",
+        "amount": 10000,
+        "type": "deposit",
+        "timestamp": "2026-05-25T11:05:30.832Z",
+        "details": "Deposit: Rp10000"
       }
     ]
   },

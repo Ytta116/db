@@ -84,8 +84,8 @@
     "first_name": "只做能赚钱的事",
     "last_name": "",
     "join_date": "2026-05-23T17:36:44.280Z",
-    "total_spent": 15000,
-    "balance": 14745,
+    "total_spent": 21000,
+    "balance": 8745,
     "total_deposit": 30000,
     "history": [
       {
@@ -108,6 +108,13 @@
         "type": "deposit",
         "timestamp": "2026-05-25T08:50:44.692Z",
         "details": "Deposit: Rp10000"
+      },
+      {
+        "product": "Akun ID 6",
+        "amount": 6000,
+        "type": "account",
+        "timestamp": "2026-05-25T10:23:09.983Z",
+        "details": "ACC ID: 6595556891 | Phone: 6285704100978 | Kategori ID: 6"
       }
     ]
   },

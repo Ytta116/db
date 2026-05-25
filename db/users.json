@@ -94,6 +94,13 @@
         "type": "deposit",
         "timestamp": "2026-05-24T05:37:12.149Z",
         "details": "Deposit: Rp10000"
+      },
+      {
+        "product": "Deposit Saldo",
+        "amount": 10000,
+        "type": "deposit",
+        "timestamp": "2026-05-25T08:50:44.692Z",
+        "details": "Deposit: Rp10000"
       }
     ]
   },

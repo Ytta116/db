@@ -84,8 +84,8 @@
     "first_name": "只做能赚钱的事",
     "last_name": "",
     "join_date": "2026-05-23T17:36:44.280Z",
-    "total_spent": 21000,
-    "balance": 18745,
+    "total_spent": 27000,
+    "balance": 12745,
     "total_deposit": 40000,
     "history": [
       {
@@ -122,6 +122,13 @@
         "type": "deposit",
         "timestamp": "2026-05-25T11:05:30.832Z",
         "details": "Deposit: Rp10000"
+      },
+      {
+        "product": "Akun ID 6",
+        "amount": 6000,
+        "type": "account",
+        "timestamp": "2026-05-25T11:06:03.189Z",
+        "details": "ACC ID: 6336866679 | Phone: 6285755041912 | Kategori ID: 6"
       }
     ]
   },

@@ -27,6 +27,21 @@
     "total_spent": 0,
     "balance": 35000,
     "total_deposit": 35000,
-    "history": []
+    "history": [
+      {
+        "product": "Deposit Saldo",
+        "amount": 35000,
+        "type": "deposit",
+        "timestamp": "2026-05-25T16:22:30.124Z",
+        "details": "Deposit: Rp35000"
+      },
+      {
+        "product": "VIP 7 Days / 2 Akun",
+        "amount": 25000,
+        "type": "vip",
+        "timestamp": "2026-05-25T16:23:26.868Z",
+        "details": "Target ID: 8322643677, Maks. Akun: 2, Durasi: 7 hari"
+      }
+    ]
   }
 ]

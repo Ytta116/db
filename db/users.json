@@ -5,8 +5,8 @@
     "first_name": "支柱",
     "last_name": "",
     "join_date": "2026-05-19T16:44:56.879Z",
-    "total_spent": 61500,
-    "balance": 88382,
+    "total_spent": 71500,
+    "balance": 78382,
     "total_deposit": 150000,
     "history": [
       {
@@ -84,6 +84,13 @@
         "amount": 10000,
         "type": "account",
         "timestamp": "2026-05-25T12:01:05.967Z",
+        "details": "ACC ID: 5757177535 | Phone: 6289518819483 | Kategori ID: 5"
+      },
+      {
+        "product": "Akun ID 5",
+        "amount": 10000,
+        "type": "account",
+        "timestamp": "2026-05-25T12:02:30.721Z",
         "details": "ACC ID: 5757177535 | Phone: 6289518819483 | Kategori ID: 5"
       }
     ]

@@ -36,5 +36,16 @@
         "details": "Deposit: Rp35000"
       }
     ]
+  },
+  {
+    "id": 8258195151,
+    "username": "pil4r ",
+    "first_name": "pil4r ",
+    "last_name": "",
+    "join_date": "2026-05-25T17:09:28.455Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

@@ -15,6 +15,13 @@
         "type": "deposit",
         "timestamp": "2026-05-26T12:57:20.356Z",
         "details": "Ditambahkan manual oleh owner (+Rp100.000)"
+      },
+      {
+        "product": "VIP 30 Days / 2 Akun",
+        "amount": 75000,
+        "type": "vip",
+        "timestamp": "2026-05-26T12:59:00.701Z",
+        "details": "Target ID: 8322643677, Maks. Akun: 2, Durasi: 30 hari"
       }
     ]
   },

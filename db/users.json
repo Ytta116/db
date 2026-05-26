@@ -5,8 +5,8 @@
     "first_name": "只做能赚钱的事",
     "last_name": "",
     "join_date": "2026-05-26T12:49:49.513Z",
-    "total_spent": 75000,
-    "balance": 25000,
+    "total_spent": 81000,
+    "balance": 19000,
     "total_deposit": 100000,
     "history": [
       {
@@ -22,6 +22,13 @@
         "type": "vip",
         "timestamp": "2026-05-26T12:59:00.701Z",
         "details": "Target ID: 8322643677, Maks. Akun: 2, Durasi: 30 hari"
+      },
+      {
+        "product": "Akun ID 6",
+        "amount": 6000,
+        "type": "account",
+        "timestamp": "2026-05-26T13:01:56.024Z",
+        "details": "ACC ID: 6535332255 | Phone: 6285758481873 | Kategori ID: 6"
       }
     ]
   },

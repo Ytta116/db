@@ -1,40 +1,10 @@
 [
   {
-    "id": 8322643677,
-    "username": "dFiyo",
-    "first_name": "只做能赚钱的事",
-    "last_name": "",
-    "join_date": "2026-05-26T09:49:59.050Z",
-    "total_spent": 0,
-    "balance": 10000,
-    "total_deposit": 0,
-    "history": []
-  },
-  {
-    "id": 500501511,
-    "username": "pilarf",
-    "first_name": "支柱",
-    "last_name": "",
-    "join_date": "2026-05-26T09:50:21.763Z",
-    "total_spent": 0,
-    "balance": 150000,
-    "total_deposit": 50000,
-    "history": [
-      {
-        "product": "Tambah Saldo (Owner)",
-        "amount": 50000,
-        "type": "deposit",
-        "timestamp": "2026-05-26T10:09:21.821Z",
-        "details": "Ditambahkan manual oleh owner (+Rp50.000)"
-      }
-    ]
-  },
-  {
     "id": 8146735758,
     "username": "celinnv",
     "first_name": "𝗰ꫀׅ𝗹𝗶𐓣𝗧",
     "last_name": "",
-    "join_date": "2026-05-26T10:10:00.984Z",
+    "join_date": "2026-05-26T10:40:33.249Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

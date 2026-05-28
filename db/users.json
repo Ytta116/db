@@ -17,8 +17,8 @@
     "last_name": "",
     "join_date": "2026-05-27T18:54:33.783Z",
     "total_spent": 90000,
-    "balance": 10000,
-    "total_deposit": 100000,
+    "balance": 45000,
+    "total_deposit": 135000,
     "history": [
       {
         "product": "Deposit Saldo",
@@ -33,6 +33,13 @@
         "type": "Pembelian Nomor",
         "timestamp": "2026-05-28T13:20:57.300Z",
         "details": "ID: 8407672755 | Kategori: Noktel | Nomor: 23299966656"
+      },
+      {
+        "product": "Deposit Saldo",
+        "type": "deposit",
+        "amount": 35000,
+        "timestamp": "2026-05-28T14:29:33.619Z",
+        "details": "Deposit manual dikonfirmasi oleh owner"
       }
     ]
   }

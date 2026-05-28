@@ -5,8 +5,8 @@
     "first_name": "支柱",
     "last_name": "",
     "join_date": "2026-05-27T16:05:37.778Z",
-    "total_spent": 50000,
-    "balance": 225000,
+    "total_spent": 75000,
+    "balance": 200000,
     "total_deposit": 600000,
     "history": [
       {
@@ -63,6 +63,13 @@
         "amount": 25000,
         "type": "Pembelian Nomor",
         "timestamp": "2026-05-28T09:32:47.410Z",
+        "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
+      },
+      {
+        "product": "Nomor Premium 99361662817",
+        "amount": 25000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-05-28T09:39:01.797Z",
         "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
       }
     ]

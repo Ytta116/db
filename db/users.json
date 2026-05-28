@@ -16,8 +16,8 @@
     "first_name": "只做能赚钱的事",
     "last_name": "",
     "join_date": "2026-05-27T18:54:33.783Z",
-    "total_spent": 90000,
-    "balance": 45000,
+    "total_spent": 120000,
+    "balance": 15000,
     "total_deposit": 135000,
     "history": [
       {
@@ -40,6 +40,13 @@
         "amount": 35000,
         "timestamp": "2026-05-28T14:29:33.619Z",
         "details": "Deposit manual dikonfirmasi oleh owner"
+      },
+      {
+        "product": "Nomor Premium 9647727771770",
+        "amount": 30000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-05-28T14:29:58.441Z",
+        "details": "ID: 8766980710 | Kategori: Noktel | Nomor: 9647727771770"
       }
     ]
   }

@@ -6,7 +6,7 @@
     "last_name": "",
     "join_date": "2026-05-27T16:05:37.778Z",
     "total_spent": 0,
-    "balance": 525000,
+    "balance": 275000,
     "total_deposit": 600000,
     "history": [
       {
@@ -43,6 +43,13 @@
         "type": "deposit",
         "timestamp": "2026-05-28T08:15:25.827Z",
         "details": "Ditambahkan manual oleh owner (+Rp250.000)"
+      },
+      {
+        "product": "Kurang Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-05-28T09:27:58.053Z",
+        "details": "Dikurangi manual oleh owner (-Rp250.000)"
       }
     ]
   },

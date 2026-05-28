@@ -9,27 +9,7 @@
     "balance": 710000,
     "total_deposit": 600000,
     "history": [
-      {
-        "product": "Nomor Premium 99361662817",
-        "amount": 25000,
-        "type": "Pembelian Nomor",
-        "timestamp": "2026-05-28T10:19:33.328Z",
-        "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
-      },
-      {
-        "product": "Nomor Premium 99361662817",
-        "amount": 25000,
-        "type": "Pembelian Nomor",
-        "timestamp": "2026-05-28T10:23:36.782Z",
-        "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
-      },
-      {
-        "product": "Nomor Premium 60166898889",
-        "amount": 15000,
-        "type": "Pembelian Nomor",
-        "timestamp": "2026-05-28T10:33:33.324Z",
-        "details": "ID: 8061437870 | Kategori: Noktel | Nomor: 60166898889"
-      }
+
     ]
   },
   {

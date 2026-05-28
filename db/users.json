@@ -6,9 +6,17 @@
     "last_name": "",
     "join_date": "2026-05-27T16:05:37.778Z",
     "total_spent": 375000,
-    "balance": 600000,
+    "balance": 350000,
     "total_deposit": 600000,
-    "history": []
+    "history": [
+      {
+        "product": "Kurang Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-05-28T15:58:15.518Z",
+        "details": "Dikurangi manual oleh owner (-Rp250.000)"
+      }
+    ]
   },
   {
     "id": 8322643677,

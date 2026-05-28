@@ -25,8 +25,8 @@
     "last_name": "",
     "join_date": "2026-05-27T18:54:33.783Z",
     "total_spent": 135000,
-    "balance": 0,
-    "total_deposit": 135000,
+    "balance": 100000,
+    "total_deposit": 235000,
     "history": [
       {
         "product": "Deposit Saldo",
@@ -62,6 +62,13 @@
         "type": "vip",
         "timestamp": "2026-05-28T16:39:40.045Z",
         "details": "Target ID: 8322643677, Maks. Akun: 1, Durasi: 7 hari"
+      },
+      {
+        "product": "Deposit Saldo",
+        "type": "deposit",
+        "amount": 100000,
+        "timestamp": "2026-05-28T16:41:12.256Z",
+        "details": "Deposit manual dikonfirmasi oleh owner"
       }
     ]
   }

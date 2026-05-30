@@ -52,8 +52,8 @@
     "first_name": "只做能赚钱的事",
     "last_name": "",
     "join_date": "2026-05-27T18:54:33.783Z",
-    "total_spent": 135000,
-    "balance": 100000,
+    "total_spent": 160000,
+    "balance": 75000,
     "total_deposit": 235000,
     "history": [
       {
@@ -97,6 +97,13 @@
         "amount": 100000,
         "timestamp": "2026-05-28T16:41:12.256Z",
         "details": "Deposit manual dikonfirmasi oleh owner"
+      },
+      {
+        "product": "Nomor Premium 37866404433",
+        "amount": 25000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-05-30T14:56:56.986Z",
+        "details": "ID: 8387359742 | Kategori: Noktel | Nomor: 37866404433"
       }
     ]
   }

@@ -209,5 +209,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7780082934,
+    "username": "vhiosh",
+    "first_name": "rama&#039;s",
+    "last_name": "",
+    "join_date": "2026-05-31T10:19:47.227Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

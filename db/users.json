@@ -180,5 +180,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8409816708,
+    "username": "garskoo",
+    "first_name": "加斯考",
+    "last_name": "",
+    "join_date": "2026-05-31T08:28:11.623Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

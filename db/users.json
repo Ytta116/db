@@ -147,5 +147,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7406640933,
+    "username": "fendrax",
+    "first_name": "fendra",
+    "last_name": "",
+    "join_date": "2026-05-31T04:12:50.908Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

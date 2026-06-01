@@ -66,8 +66,8 @@
     "first_name": "只做能赚钱的事",
     "last_name": "",
     "join_date": "2026-05-27T18:54:33.783Z",
-    "total_spent": 160000,
-    "balance": 75000,
+    "total_spent": 170000,
+    "balance": 65000,
     "total_deposit": 235000,
     "history": [
       {
@@ -118,6 +118,13 @@
         "type": "Pembelian Nomor",
         "timestamp": "2026-05-30T14:56:56.986Z",
         "details": "ID: 8387359742 | Kategori: Noktel | Nomor: 37866404433"
+      },
+      {
+        "product": "Nomor Premium 6285649092996",
+        "amount": 10000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-06-01T09:02:26.677Z",
+        "details": "ID: 5922716328 | Kategori: 5 | Nomor: 6285649092996"
       }
     ]
   },

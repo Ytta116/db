@@ -362,5 +362,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8616335953,
+    "username": "bapak lu dah",
+    "first_name": "bapak lu dah",
+    "last_name": "",
+    "join_date": "2026-06-03T10:13:19.618Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

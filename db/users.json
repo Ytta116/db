@@ -428,5 +428,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7756782109,
+    "username": "Wilma Malakai",
+    "first_name": "Wilma",
+    "last_name": "Malakai",
+    "join_date": "2026-06-04T15:19:25.916Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

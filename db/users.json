@@ -439,5 +439,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7118835316,
+    "username": "Valendria",
+    "first_name": "Valendria",
+    "last_name": "",
+    "join_date": "2026-06-04T17:37:16.240Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

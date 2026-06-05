@@ -6,8 +6,8 @@
     "last_name": "",
     "join_date": "2026-05-27T16:05:37.778Z",
     "total_spent": 476000,
-    "balance": 999000,
-    "total_deposit": 1350000,
+    "balance": 1249000,
+    "total_deposit": 1600000,
     "history": [
       {
         "product": "Kurang Saldo (Owner)",
@@ -64,6 +64,13 @@
         "type": "Pembelian Nomor",
         "timestamp": "2026-06-02T17:18:34.823Z",
         "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
+      },
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-06-05T16:10:48.627Z",
+        "details": "Ditambahkan manual oleh owner (+Rp250.000)"
       }
     ]
   },

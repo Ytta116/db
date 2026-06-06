@@ -479,5 +479,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8857560958,
+    "username": "Leah Sanchez",
+    "first_name": "Leah",
+    "last_name": "Sanchez",
+    "join_date": "2026-06-06T11:06:42.604Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

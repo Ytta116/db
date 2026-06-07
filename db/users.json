@@ -501,5 +501,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8936988367,
+    "username": "Eleanor Lopez",
+    "first_name": "Eleanor",
+    "last_name": "Lopez",
+    "join_date": "2026-06-07T12:07:57.292Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

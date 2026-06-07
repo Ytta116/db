@@ -512,5 +512,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8231375994,
+    "username": "X",
+    "first_name": "X",
+    "last_name": "",
+    "join_date": "2026-06-07T17:48:43.917Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

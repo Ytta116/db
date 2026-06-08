@@ -542,8 +542,8 @@
     "last_name": "",
     "join_date": "2026-06-08T10:02:40.628Z",
     "total_spent": 30000,
-    "balance": 5000,
-    "total_deposit": 35000,
+    "balance": 15000,
+    "total_deposit": 45000,
     "history": [
       {
         "product": "Tambah Saldo (Owner)",
@@ -572,6 +572,13 @@
         "type": "Pembelian Nomor",
         "timestamp": "2026-06-08T10:45:59.483Z",
         "details": "ID: 7477144747 | Kategori: Noktel | Nomor: 6285720065638"
+      },
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 10000,
+        "type": "deposit",
+        "timestamp": "2026-06-08T12:03:30.624Z",
+        "details": "Ditambahkan manual oleh owner (+Rp10.000)"
       }
     ]
   }

@@ -541,8 +541,8 @@
     "first_name": "𝕻𝖎𝖑𝖆𝖗 𝐥𝐮𝐯𝟐𝐡𝐚𝐭𝐞",
     "last_name": "",
     "join_date": "2026-06-08T10:02:40.628Z",
-    "total_spent": 10000,
-    "balance": 25000,
+    "total_spent": 30000,
+    "balance": 5000,
     "total_deposit": 35000,
     "history": [
       {
@@ -565,6 +565,13 @@
         "type": "deposit",
         "timestamp": "2026-06-08T10:45:45.162Z",
         "details": "Ditambahkan manual oleh owner (+Rp10.000)"
+      },
+      {
+        "product": "Nomor Premium 6285720065638",
+        "amount": 20000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-06-08T10:45:59.483Z",
+        "details": "ID: 7477144747 | Kategori: Noktel | Nomor: 6285720065638"
       }
     ]
   }

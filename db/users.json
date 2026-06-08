@@ -542,8 +542,16 @@
     "last_name": "",
     "join_date": "2026-06-08T10:02:40.628Z",
     "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
-    "history": []
+    "balance": 25000,
+    "total_deposit": 25000,
+    "history": [
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 25000,
+        "type": "deposit",
+        "timestamp": "2026-06-08T10:11:43.529Z",
+        "details": "Ditambahkan manual oleh owner (+Rp25.000)"
+      }
+    ]
   }
 ]

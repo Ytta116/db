@@ -541,8 +541,8 @@
     "first_name": "𝕻𝖎𝖑𝖆𝖗 𝐥𝐮𝐯𝟐𝐡𝐚𝐭𝐞",
     "last_name": "",
     "join_date": "2026-06-08T10:02:40.628Z",
-    "total_spent": 40000,
-    "balance": 5000,
+    "total_spent": 41000,
+    "balance": 4000,
     "total_deposit": 45000,
     "history": [
       {
@@ -579,6 +579,16 @@
         "type": "deposit",
         "timestamp": "2026-06-08T12:03:30.624Z",
         "details": "Ditambahkan manual oleh owner (+Rp10.000)"
+      },
+      {
+        "product": "Nomor Premium 84922223223",
+        "amount": 1000,
+        "type": "Pembelian Nomor",
+        "status": "active",
+        "number": "84922223223",
+        "category": "Noktel",
+        "timestamp": "2026-06-09T07:22:51.845Z",
+        "details": "ID: 8686368881 | Kategori: Noktel | Nomor: 84922223223"
       }
     ]
   },

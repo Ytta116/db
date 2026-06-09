@@ -584,7 +584,7 @@
         "product": "Nomor Premium 84922223223",
         "amount": 1000,
         "type": "Pembelian Nomor",
-        "status": "active",
+        "status": "completed",
         "number": "84922223223",
         "category": "Noktel",
         "timestamp": "2026-06-09T07:22:51.845Z",

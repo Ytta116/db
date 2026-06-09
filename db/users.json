@@ -544,43 +544,7 @@
     "total_spent": 41000,
     "balance": 4000,
     "total_deposit": 45000,
-    "history": [
-      {
-        "product": "Tambah Saldo (Owner)",
-        "amount": 25000,
-        "type": "deposit",
-        "timestamp": "2026-06-08T10:11:43.529Z",
-        "details": "Ditambahkan manual oleh owner (+Rp25.000)"
-      },
-      {
-        "product": "Akun ID 5",
-        "amount": 10000,
-        "type": "account",
-        "timestamp": "2026-06-08T10:12:31.491Z",
-        "details": "ACC ID: 5922716328 | Phone: 6285649092996 | Kategori ID: 5"
-      },
-      {
-        "product": "Tambah Saldo (Owner)",
-        "amount": 10000,
-        "type": "deposit",
-        "timestamp": "2026-06-08T10:45:45.162Z",
-        "details": "Ditambahkan manual oleh owner (+Rp10.000)"
-      },
-      {
-        "product": "Nomor Premium 6285720065638",
-        "amount": 20000,
-        "type": "Pembelian Nomor",
-        "timestamp": "2026-06-08T10:45:59.483Z",
-        "details": "ID: 7477144747 | Kategori: Noktel | Nomor: 6285720065638"
-      },
-      {
-        "product": "Tambah Saldo (Owner)",
-        "amount": 10000,
-        "type": "deposit",
-        "timestamp": "2026-06-08T12:03:30.624Z",
-        "details": "Ditambahkan manual oleh owner (+Rp10.000)"
-      }
-    ]
+    "history": []
   },
   {
     "id": 8970368799,

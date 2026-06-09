@@ -579,16 +579,6 @@
         "type": "deposit",
         "timestamp": "2026-06-08T12:03:30.624Z",
         "details": "Ditambahkan manual oleh owner (+Rp10.000)"
-      },
-      {
-        "product": "Nomor Premium 84922223223",
-        "amount": 1000,
-        "type": "Pembelian Nomor",
-        "status": "completed",
-        "number": "84922223223",
-        "category": "Noktel",
-        "timestamp": "2026-06-09T07:22:51.845Z",
-        "details": "ID: 8686368881 | Kategori: Noktel | Nomor: 84922223223"
       }
     ]
   },

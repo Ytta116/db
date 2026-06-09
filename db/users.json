@@ -625,5 +625,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 5248155013,
+    "username": "actualk",
+    "first_name": "xi",
+    "last_name": "",
+    "join_date": "2026-06-09T04:35:16.193Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

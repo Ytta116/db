@@ -555,5 +555,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7957885973,
+    "username": "Marvella",
+    "first_name": "Marvella",
+    "last_name": "",
+    "join_date": "2026-06-11T09:25:28.374Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

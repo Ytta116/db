@@ -6,7 +6,7 @@
     "last_name": "",
     "join_date": "2026-05-27T16:05:37.778Z",
     "total_spent": 486000,
-    "balance": 239000,
+    "balance": 0,
     "total_deposit": 1600000,
     "history": [
       {
@@ -15,6 +15,13 @@
         "type": "saldo_reduce",
         "timestamp": "2026-06-11T18:37:31.773Z",
         "details": "Admin dashboard — before: 1239000, after: 239000"
+      },
+      {
+        "product": "Kurangi Saldo (Admin Dashboard)",
+        "amount": 1000000,
+        "type": "saldo_reduce",
+        "timestamp": "2026-06-11T18:37:33.933Z",
+        "details": "Admin dashboard — before: 239000, after: 0"
       }
     ]
   },

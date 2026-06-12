@@ -478,8 +478,8 @@
     "last_name": "",
     "join_date": "2026-06-08T10:02:40.628Z",
     "total_spent": 41000,
-    "balance": 9000,
-    "total_deposit": 50000,
+    "balance": 49000,
+    "total_deposit": 90000,
     "history": [
       {
         "product": "Tambah Saldo (Admin Dashboard)",
@@ -487,6 +487,13 @@
         "type": "saldo_add",
         "timestamp": "2026-06-09T10:48:59.700Z",
         "details": "Admin dashboard — before: 4000, after: 9000"
+      },
+      {
+        "product": "Tambah Saldo (Admin Dashboard)",
+        "amount": 40000,
+        "type": "saldo_add",
+        "timestamp": "2026-06-12T08:15:05.439Z",
+        "details": "Admin dashboard — before: 9000, after: 49000"
       }
     ]
   },

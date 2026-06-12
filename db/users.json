@@ -6,8 +6,8 @@
     "last_name": "",
     "join_date": "2026-05-27T16:05:37.778Z",
     "total_spent": 486000,
-    "balance": 29999,
-    "total_deposit": 1629999,
+    "balance": 1239000,
+    "total_deposit": 1600000,
     "history": []
   },
   {
@@ -477,9 +477,9 @@
     "first_name": "𝕻𝖎𝖑𝖆𝖗 𝐥𝐮𝐯𝟐𝐡𝐚𝐭𝐞",
     "last_name": "",
     "join_date": "2026-06-08T10:02:40.628Z",
-    "total_spent": 61000,
-    "balance": 29000,
-    "total_deposit": 90000,
+    "total_spent": 41000,
+    "balance": 9000,
+    "total_deposit": 50000,
     "history": [
       {
         "product": "Tambah Saldo (Admin Dashboard)",
@@ -487,23 +487,6 @@
         "type": "saldo_add",
         "timestamp": "2026-06-09T10:48:59.700Z",
         "details": "Admin dashboard — before: 4000, after: 9000"
-      },
-      {
-        "product": "Tambah Saldo (Admin Dashboard)",
-        "amount": 40000,
-        "type": "saldo_add",
-        "timestamp": "2026-06-12T08:15:05.439Z",
-        "details": "Admin dashboard — before: 9000, after: 49000"
-      },
-      {
-        "product": "Nomor Premium 84922223223",
-        "amount": 20000,
-        "type": "Pembelian Nomor",
-        "status": "completed",
-        "number": "84922223223",
-        "category": "Noktel",
-        "timestamp": "2026-06-12T08:15:44.202Z",
-        "details": "ID: 8686368881 | Kategori: Noktel | Nomor: 84922223223"
       }
     ]
   },
@@ -579,6 +562,17 @@
     "first_name": "Marvella",
     "last_name": "",
     "join_date": "2026-06-11T09:25:28.374Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 7806191726,
+    "username": "TRVD2121",
+    "first_name": "兜有米多喜乐",
+    "last_name": "",
+    "join_date": "2026-06-12T09:15:23.880Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

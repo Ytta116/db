@@ -6,8 +6,8 @@
     "last_name": "",
     "join_date": "2026-05-27T16:05:37.778Z",
     "total_spent": 486000,
-    "balance": 9999,
-    "total_deposit": 1609999,
+    "balance": 29999,
+    "total_deposit": 1629999,
     "history": [
       {
         "product": "Kurangi Saldo (Admin Dashboard)",
@@ -29,6 +29,13 @@
         "type": "saldo_add",
         "timestamp": "2026-06-11T18:38:13.715Z",
         "details": "Admin dashboard — before: 0, after: 9999"
+      },
+      {
+        "product": "Tambah Saldo (Admin Dashboard)",
+        "amount": 20000,
+        "type": "saldo_add",
+        "timestamp": "2026-06-12T07:55:58.252Z",
+        "details": "Admin dashboard — before: 9999, after: 29999"
       }
     ]
   },

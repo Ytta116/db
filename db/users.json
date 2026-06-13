@@ -599,5 +599,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7693252514,
+    "username": "Sheldon Wescott",
+    "first_name": "Sheldon",
+    "last_name": "Wescott",
+    "join_date": "2026-06-13T12:54:59.146Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

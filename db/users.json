@@ -610,5 +610,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8735253808,
+    "username": "oktavia Z",
+    "first_name": "oktavia",
+    "last_name": "Z",
+    "join_date": "2026-06-13T22:39:29.162Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

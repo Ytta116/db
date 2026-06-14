@@ -340,5 +340,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 5966261391,
+    "username": "vdocj",
+    "first_name": "Ricardo 333",
+    "last_name": "",
+    "join_date": "2026-06-14T15:38:32.724Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

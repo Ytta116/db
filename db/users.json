@@ -4,7 +4,327 @@
     "username": "pilarf",
     "first_name": "支柱",
     "last_name": "",
-    "join_date": "2026-06-14T03:46:53.502Z",
+    "join_date": "2026-05-27T16:05:37.778Z",
+    "total_spent": 476000,
+    "balance": 999000,
+    "total_deposit": 1350000,
+    "history": [
+      {
+        "product": "Kurang Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-05-28T15:58:15.518Z",
+        "details": "Dikurangi manual oleh owner (-Rp250.000)"
+      },
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-05-28T17:11:32.105Z",
+        "details": "Ditambahkan manual oleh owner (+Rp250.000)"
+      },
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-05-28T17:11:36.034Z",
+        "details": "Ditambahkan manual oleh owner (+Rp250.000)"
+      },
+      {
+        "product": "Tambah Saldo (Owner)",
+        "amount": 250000,
+        "type": "deposit",
+        "timestamp": "2026-05-28T17:11:38.737Z",
+        "details": "Ditambahkan manual oleh owner (+Rp250.000)"
+      },
+      {
+        "product": "Nomor Premium 6285758481873",
+        "amount": 6000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-05-29T08:12:44.968Z",
+        "details": "ID: 6535332255 | Kategori: 6 | Nomor: 6285758481873"
+      },
+      {
+        "product": "Nomor Premium 37866400899",
+        "amount": 25000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-06-01T10:52:34.330Z",
+        "details": "ID: 8128853854 | Kategori: Noktel | Nomor: 37866400899"
+      },
+      {
+        "product": "Nomor Premium 99361662817",
+        "amount": 10000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-06-02T15:52:04.667Z",
+        "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
+      },
+      {
+        "product": "Nomor Premium 99361662817",
+        "amount": 10000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-06-02T17:18:34.823Z",
+        "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
+      }
+    ]
+  },
+  {
+    "id": 8322643677,
+    "username": "dFiyo",
+    "first_name": "只做能赚钱的事",
+    "last_name": "",
+    "join_date": "2026-05-27T18:54:33.783Z",
+    "total_spent": 170000,
+    "balance": 65000,
+    "total_deposit": 235000,
+    "history": [
+      {
+        "product": "Deposit Saldo",
+        "type": "deposit",
+        "amount": 100000,
+        "timestamp": "2026-05-28T12:01:36.271Z",
+        "details": "Deposit manual dikonfirmasi oleh owner"
+      },
+      {
+        "product": "Nomor Premium 23299966656",
+        "amount": 90000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-05-28T13:20:57.300Z",
+        "details": "ID: 8407672755 | Kategori: Noktel | Nomor: 23299966656"
+      },
+      {
+        "product": "Deposit Saldo",
+        "type": "deposit",
+        "amount": 35000,
+        "timestamp": "2026-05-28T14:29:33.619Z",
+        "details": "Deposit manual dikonfirmasi oleh owner"
+      },
+      {
+        "product": "Nomor Premium 9647727771770",
+        "amount": 30000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-05-28T14:29:58.441Z",
+        "details": "ID: 8766980710 | Kategori: Noktel | Nomor: 9647727771770"
+      },
+      {
+        "product": "VIP 7 Days / 1 Akun",
+        "amount": 15000,
+        "type": "vip",
+        "timestamp": "2026-05-28T16:39:40.045Z",
+        "details": "Target ID: 8322643677, Maks. Akun: 1, Durasi: 7 hari"
+      },
+      {
+        "product": "Deposit Saldo",
+        "type": "deposit",
+        "amount": 100000,
+        "timestamp": "2026-05-28T16:41:12.256Z",
+        "details": "Deposit manual dikonfirmasi oleh owner"
+      },
+      {
+        "product": "Nomor Premium 37866404433",
+        "amount": 25000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-05-30T14:56:56.986Z",
+        "details": "ID: 8387359742 | Kategori: Noktel | Nomor: 37866404433"
+      },
+      {
+        "product": "Nomor Premium 6285649092996",
+        "amount": 10000,
+        "type": "Pembelian Nomor",
+        "timestamp": "2026-06-01T09:02:26.677Z",
+        "details": "ID: 5922716328 | Kategori: 5 | Nomor: 6285649092996"
+      }
+    ]
+  },
+  {
+    "id": 8258195151,
+    "username": "pil4r ",
+    "first_name": "pil4r ",
+    "last_name": "",
+    "join_date": "2026-05-30T18:07:27.857Z",
+    "total_spent": 0,
+    "balance": 1000,
+    "total_deposit": 1000,
+    "history": [
+      {
+        "product": "Deposit Saldo",
+        "amount": 1270,
+        "type": "deposit",
+        "timestamp": "2026-05-30T18:13:11.133Z",
+        "details": "Deposit: Rp1000"
+      }
+    ]
+  },
+  {
+    "id": 629875580,
+    "username": "mattxde",
+    "first_name": "matt",
+    "last_name": "",
+    "join_date": "2026-05-30T18:43:05.227Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 7671108165,
+    "username": "xiaokQvQ",
+    "first_name": "小k",
+    "last_name": "",
+    "join_date": "2026-05-31T00:43:02.570Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 7406640933,
+    "username": "fendrax",
+    "first_name": "fendra",
+    "last_name": "",
+    "join_date": "2026-05-31T04:12:50.908Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 45140007,
+    "username": "roonk",
+    "first_name": "MKe",
+    "last_name": "",
+    "join_date": "2026-05-31T08:01:25.577Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 8988695423,
+    "username": "Xtwitteridn",
+    "first_name": "X ( Sebelumnya Twitter)",
+    "last_name": "",
+    "join_date": "2026-05-31T08:01:25.577Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 8409816708,
+    "username": "garskoo",
+    "first_name": "加斯考",
+    "last_name": "",
+    "join_date": "2026-05-31T08:28:11.623Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 1568585191,
+    "username": "seetirr",
+    "first_name": "nakki yezkhiel",
+    "last_name": "",
+    "join_date": "2026-05-31T09:36:00.929Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 7780082934,
+    "username": "vhiosh",
+    "first_name": "rama&#039;s",
+    "last_name": "",
+    "join_date": "2026-05-31T10:19:47.227Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 308873601,
+    "username": "howgril",
+    "first_name": "depon",
+    "last_name": "",
+    "join_date": "2026-05-31T10:31:07.689Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 8212023568,
+    "username": "hannn",
+    "first_name": "hannn",
+    "last_name": "",
+    "join_date": "2026-05-31T14:18:19.862Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 7244167420,
+    "username": "coremild",
+    "first_name": "gua rapaa",
+    "last_name": "",
+    "join_date": "2026-05-31T14:31:49.739Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 14945333,
+    "username": "hantar",
+    "first_name": "Я7 Vloryx - 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚",
+    "last_name": "",
+    "join_date": "2026-05-31T18:23:00.789Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 944409562,
+    "username": "gottopipell",
+    "first_name": "kael sagne sama boneka",
+    "last_name": "",
+    "join_date": "2026-05-31T19:00:58.176Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 421952410,
+    "username": "reivzel",
+    "first_name": "reivzel killface",
+    "last_name": "",
+    "join_date": "2026-06-01T04:50:29.751Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 8092060437,
+    "username": "yaeetim",
+    "first_name": "ZimeMajesty ₿",
+    "last_name": "",
+    "join_date": "2026-06-01T04:50:33.099Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 672705587,
+    "username": "MyPangeran",
+    "first_name": "bieeGlory",
+    "last_name": "#Azov",
+    "join_date": "2026-06-01T10:48:38.122Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

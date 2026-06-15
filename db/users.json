@@ -381,5 +381,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8800763310,
+    "username": "yakirinp",
+    "first_name": "965 99908999",
+    "last_name": "",
+    "join_date": "2026-06-15T10:44:48.989Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

@@ -65,7 +65,8 @@
         "timestamp": "2026-06-02T17:18:34.823Z",
         "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
       }
-    ]
+    ],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_48.jpg"
   },
   {
     "id": 8322643677,
@@ -133,7 +134,8 @@
         "timestamp": "2026-06-01T09:02:26.677Z",
         "details": "ID: 5922716328 | Kategori: 5 | Nomor: 6285649092996"
       }
-    ]
+    ],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_49.jpg"
   },
   {
     "id": 8258195151,
@@ -325,69 +327,6 @@
     "first_name": "bieeGlory",
     "last_name": "#Azov",
     "join_date": "2026-06-01T10:48:38.122Z",
-    "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
-    "history": []
-  },
-  {
-    "id": 6358766843,
-    "username": "zocbe",
-    "first_name": "L",
-    "last_name": "",
-    "join_date": "2026-06-14T08:52:45.891Z",
-    "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
-    "history": []
-  },
-  {
-    "id": 5966261391,
-    "username": "vdocj",
-    "first_name": "Ricardo 333",
-    "last_name": "",
-    "join_date": "2026-06-14T15:38:32.724Z",
-    "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
-    "history": []
-  },
-  {
-    "id": 8847582526,
-    "username": "gottabelikee",
-    "first_name": "elxy",
-    "last_name": "",
-    "join_date": "2026-06-14T18:14:07.998Z",
-    "total_spent": 0,
-    "balance": 1000,
-    "total_deposit": 1000,
-    "history": [
-      {
-        "product": "Deposit Saldo",
-        "amount": 1251,
-        "type": "deposit",
-        "timestamp": "2026-06-14T18:16:14.473Z",
-        "details": "Deposit: Rp1000"
-      }
-    ]
-  },
-  {
-    "id": 8231375994,
-    "username": "X",
-    "first_name": "X",
-    "last_name": "",
-    "join_date": "2026-06-15T10:17:34.118Z",
-    "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
-    "history": []
-  },
-  {
-    "id": 8800763310,
-    "username": "yakirinp",
-    "first_name": "965 99908999",
-    "last_name": "",
-    "join_date": "2026-06-15T10:44:48.989Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

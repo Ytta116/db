@@ -8,64 +8,7 @@
     "total_spent": 476000,
     "balance": 999000,
     "total_deposit": 1350000,
-    "history": [
-      {
-        "product": "Kurang Saldo (Owner)",
-        "amount": 250000,
-        "type": "deposit",
-        "timestamp": "2026-05-28T15:58:15.518Z",
-        "details": "Dikurangi manual oleh owner (-Rp250.000)"
-      },
-      {
-        "product": "Tambah Saldo (Owner)",
-        "amount": 250000,
-        "type": "deposit",
-        "timestamp": "2026-05-28T17:11:32.105Z",
-        "details": "Ditambahkan manual oleh owner (+Rp250.000)"
-      },
-      {
-        "product": "Tambah Saldo (Owner)",
-        "amount": 250000,
-        "type": "deposit",
-        "timestamp": "2026-05-28T17:11:36.034Z",
-        "details": "Ditambahkan manual oleh owner (+Rp250.000)"
-      },
-      {
-        "product": "Tambah Saldo (Owner)",
-        "amount": 250000,
-        "type": "deposit",
-        "timestamp": "2026-05-28T17:11:38.737Z",
-        "details": "Ditambahkan manual oleh owner (+Rp250.000)"
-      },
-      {
-        "product": "Nomor Premium 6285758481873",
-        "amount": 6000,
-        "type": "Pembelian Nomor",
-        "timestamp": "2026-05-29T08:12:44.968Z",
-        "details": "ID: 6535332255 | Kategori: 6 | Nomor: 6285758481873"
-      },
-      {
-        "product": "Nomor Premium 37866400899",
-        "amount": 25000,
-        "type": "Pembelian Nomor",
-        "timestamp": "2026-06-01T10:52:34.330Z",
-        "details": "ID: 8128853854 | Kategori: Noktel | Nomor: 37866400899"
-      },
-      {
-        "product": "Nomor Premium 99361662817",
-        "amount": 10000,
-        "type": "Pembelian Nomor",
-        "timestamp": "2026-06-02T15:52:04.667Z",
-        "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
-      },
-      {
-        "product": "Nomor Premium 99361662817",
-        "amount": 10000,
-        "type": "Pembelian Nomor",
-        "timestamp": "2026-06-02T17:18:34.823Z",
-        "details": "ID: 8084285753 | Kategori: Noktel | Nomor: 99361662817"
-      }
-    ],
+    "history": [],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_48.jpg"
   },
   {

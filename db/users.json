@@ -370,5 +370,16 @@
         "details": "Deposit: Rp1000"
       }
     ]
+  },
+  {
+    "id": 8231375994,
+    "username": "X",
+    "first_name": "X",
+    "last_name": "",
+    "join_date": "2026-06-15T10:17:34.118Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

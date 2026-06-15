@@ -6,9 +6,17 @@
     "last_name": "",
     "join_date": "2026-05-27T16:05:37.778Z",
     "total_spent": 476000,
-    "balance": 999000,
+    "balance": 1000,
     "total_deposit": 1350000,
-    "history": [],
+    "history": [
+      {
+        "product": "Kurangi Saldo (Admin Dashboard)",
+        "amount": 998000,
+        "type": "saldo_reduce",
+        "timestamp": "2026-06-15T16:03:25.118Z",
+        "details": "Admin dashboard — before: 999000, after: 1000"
+      }
+    ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_48.jpg"
   },
   {

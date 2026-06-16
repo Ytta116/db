@@ -354,6 +354,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_73.jpg"
+  },
+  {
+    "id": 6449033558,
+    "username": "353255",
+    "first_name": "353255",
+    "last_name": "",
+    "join_date": "2026-06-16T14:05:18.897Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

@@ -342,6 +342,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_72.jpg"
+  },
+  {
+    "id": 8146735758,
+    "username": "celinnv",
+    "first_name": "𝗰ꫀׅ𝗹𝗶𐓣𝗧",
+    "last_name": "",
+    "join_date": "2026-06-16T11:05:26.357Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

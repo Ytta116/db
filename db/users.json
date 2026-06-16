@@ -330,6 +330,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_68.jpg"
+  },
+  {
+    "id": 7578478155,
+    "username": "tzybanir",
+    "first_name": "Xander",
+    "last_name": "",
+    "join_date": "2026-06-16T11:04:04.100Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

@@ -367,5 +367,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8718804697,
+    "username": "XDkapiu",
+    "first_name": "kapiu",
+    "last_name": "XD",
+    "join_date": "2026-06-16T18:31:42.196Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

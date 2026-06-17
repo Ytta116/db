@@ -447,5 +447,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8231435045,
+    "username": "Robert Jackson",
+    "first_name": "Robert",
+    "last_name": "Jackson",
+    "join_date": "2026-06-17T15:55:34.900Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

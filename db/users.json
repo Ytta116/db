@@ -499,6 +499,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_79.jpg"
+  },
+  {
+    "id": 8567293686,
+    "username": "Dzitz Uxisxc",
+    "first_name": "Dzitz",
+    "last_name": "Uxisxc",
+    "join_date": "2026-06-18T18:27:21.899Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

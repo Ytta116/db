@@ -479,6 +479,15 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [
+      {
+        "product": "Deposit Saldo",
+        "amount": 10199,
+        "type": "deposit",
+        "timestamp": "2026-06-18T14:07:19.089Z",
+        "details": "Deposit: Rp10000"
+      }
+    ],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_78.jpg"
   }
 ]

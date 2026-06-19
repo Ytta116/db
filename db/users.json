@@ -579,5 +579,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 5966261391,
+    "username": "rcdox",
+    "first_name": "Ricardo - Eternalis",
+    "last_name": "",
+    "join_date": "2026-06-19T12:54:50.468Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

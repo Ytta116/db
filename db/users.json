@@ -568,5 +568,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7131612142,
+    "username": "monyet12345678",
+    "first_name": "WS/TG 股票",
+    "last_name": "",
+    "join_date": "2026-06-19T12:00:53.853Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

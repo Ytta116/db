@@ -613,6 +613,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_89.jpg"
+  },
+  {
+    "id": 1851913761,
+    "username": "jembutluwh",
+    "first_name": "ᯓ 𝗡͢𝗶𝗰𝗼͢𝘅𝘇 𝖋𝖙 𝗫͢𝘅𝗫",
+    "last_name": "",
+    "join_date": "2026-06-20T08:17:49.454Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

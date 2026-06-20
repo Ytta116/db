@@ -637,5 +637,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7382418996,
+    "username": "Jones72442",
+    "first_name": "Jones",
+    "last_name": "Charlotte",
+    "join_date": "2026-06-20T12:15:24.064Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

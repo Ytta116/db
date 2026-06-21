@@ -660,5 +660,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7495601328,
+    "username": "Brucezvbqz83",
+    "first_name": "Bruce",
+    "last_name": "Zuber",
+    "join_date": "2026-06-21T04:26:48.411Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

@@ -695,7 +695,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_96.jpg"
   },
   {
     "id": 6768171060,
@@ -703,6 +704,17 @@
     "first_name": "Chel",
     "last_name": "",
     "join_date": "2026-06-22T00:19:25.491Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 7853130064,
+    "username": "Lettiex74lue9",
+    "first_name": "Lettie",
+    "last_name": "Vanvalkenburg",
+    "join_date": "2026-06-22T10:15:21.349Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

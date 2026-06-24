@@ -804,8 +804,8 @@
     "first_name": "stawty",
     "last_name": "&lt;\\vipers&gt;",
     "join_date": "2026-06-24T10:58:46.363Z",
-    "total_spent": 0,
-    "balance": 10000,
+    "total_spent": 10000,
+    "balance": 0,
     "total_deposit": 10000,
     "history": [
       {

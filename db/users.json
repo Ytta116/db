@@ -834,6 +834,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_107.jpg"
+  },
+  {
+    "id": 201673097,
+    "username": "entoxf",
+    "first_name": "счетакцийTG3115",
+    "last_name": "",
+    "join_date": "2026-06-24T11:33:54.855Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

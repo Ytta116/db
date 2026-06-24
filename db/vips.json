@@ -1,26 +1,32 @@
 {
-  "5162570989": {
-    "expiry": "2026-06-24T19:21:33.842453+07:00",
-    "duration": 7.0,
-    "max_accounts": 2,
-    "min_accounts": 0
-  },
   "170718027": {
     "expiry": "2026-07-19T17:56:36.620702+07:00",
-    "duration": 30.0,
+    "duration": 30,
     "max_accounts": 5,
     "min_accounts": 0
   },
   "464514976": {
     "expiry": "2029-03-15T15:48:42.295701+07:00",
-    "duration": 999.0,
+    "duration": 999,
     "max_accounts": 5,
+    "min_accounts": 0
+  },
+  "5162570989": {
+    "expiry": "2026-06-24T19:21:33.842453+07:00",
+    "duration": 7,
+    "max_accounts": 2,
     "min_accounts": 0
   },
   "6243431908": {
     "expiry": "2029-03-16T09:27:50.543696+07:00",
-    "duration": 999.0,
+    "duration": 999,
     "max_accounts": 4,
+    "min_accounts": 0
+  },
+  "8598735035": {
+    "expiry": "2026-07-01T11:08:36.985Z",
+    "duration": 7,
+    "max_accounts": 1,
     "min_accounts": 0
   }
 }

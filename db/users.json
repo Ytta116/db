@@ -913,6 +913,14 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [
+      {
+        "product": "Deposit Saldo",
+        "amount": 10119,
+        "type": "deposit",
+        "timestamp": "2026-06-25T10:50:24.299Z",
+        "details": "Deposit: Rp10000"
+      }
+    ]
   }
 ]

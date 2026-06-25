@@ -930,5 +930,16 @@
       }
     ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_117.jpg"
+  },
+  {
+    "id": 8007942581,
+    "username": "ythnoa",
+    "first_name": "noa",
+    "last_name": "",
+    "join_date": "2026-06-25T18:15:15.822Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

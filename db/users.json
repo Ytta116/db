@@ -871,6 +871,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_115.jpg"
+  },
+  {
+    "id": 7042084759,
+    "username": "Craigd7ieske",
+    "first_name": "Craig",
+    "last_name": "Glenn",
+    "join_date": "2026-06-25T00:05:10.127Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

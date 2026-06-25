@@ -845,8 +845,8 @@
     "last_name": "",
     "join_date": "2026-06-24T11:33:54.855Z",
     "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
+    "balance": 10000,
+    "total_deposit": 10000,
     "history": [
       {
         "product": "Deposit Saldo",

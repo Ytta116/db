@@ -940,6 +940,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_119.jpg"
+  },
+  {
+    "id": 8049254157,
+    "username": "Lindsey05pzqsp",
+    "first_name": "Lindsey",
+    "last_name": "Reed",
+    "join_date": "2026-06-26T00:15:08.116Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

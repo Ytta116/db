@@ -1022,6 +1022,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_132.jpg"
+  },
+  {
+    "id": 7283283303,
+    "username": "Suraj Rao",
+    "first_name": "Suraj",
+    "last_name": "Rao",
+    "join_date": "2026-06-27T18:46:23.288Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

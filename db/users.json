@@ -975,7 +975,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_128.jpg"
   },
   {
     "id": 2034486213,
@@ -983,6 +984,18 @@
     "first_name": "Payment",
     "last_name": "",
     "join_date": "2026-06-26T21:43:29.622Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_129.jpg"
+  },
+  {
+    "id": 7331443917,
+    "username": "Thurman4gvh15q",
+    "first_name": "Thurman",
+    "last_name": "Wiseman",
+    "join_date": "2026-06-27T00:24:52.890Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

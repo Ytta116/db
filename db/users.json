@@ -999,6 +999,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_130.jpg"
+  },
+  {
+    "id": 7957133282,
+    "username": "GlorysBoy",
+    "first_name": "(&quot;⁧;(&quot;",
+    "last_name": "",
+    "join_date": "2026-06-27T11:36:26.687Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

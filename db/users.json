@@ -635,9 +635,17 @@
     "last_name": "黄",
     "join_date": "2026-06-20T11:04:48.597Z",
     "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
-    "history": [],
+    "balance": 55555,
+    "total_deposit": 55555,
+    "history": [
+      {
+        "product": "Tambah Saldo (Admin Dashboard)",
+        "amount": 55555,
+        "type": "saldo_add",
+        "timestamp": "2026-06-29T15:57:46.308Z",
+        "details": "Admin dashboard — before: 0, after: 55555"
+      }
+    ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_92.jpg"
   },
   {

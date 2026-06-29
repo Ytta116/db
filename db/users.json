@@ -213,8 +213,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_143.jpg"
+    "history": []
   },
   {
     "id": 8212023568,
@@ -308,8 +307,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_144.jpg"
+    "history": []
   },
   {
     "id": 1966424514,
@@ -415,8 +413,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_145.jpg"
+    "history": []
   },
   {
     "id": 54445037,
@@ -450,8 +447,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_146.jpg"
+    "history": []
   },
   {
     "id": 8231435045,
@@ -527,8 +523,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_147.jpg"
+    "history": []
   },
   {
     "id": 547215056,
@@ -584,8 +579,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_148.jpg"
+    "history": []
   },
   {
     "id": 5966261391,
@@ -632,8 +626,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_149.jpg"
+    "history": []
   },
   {
     "id": 7082551111,
@@ -642,9 +635,17 @@
     "last_name": "黄",
     "join_date": "2026-06-20T11:04:48.597Z",
     "total_spent": 0,
-    "balance": 0,
-    "total_deposit": 0,
-    "history": [],
+    "balance": 55555,
+    "total_deposit": 55555,
+    "history": [
+      {
+        "product": "Tambah Saldo (Admin Dashboard)",
+        "amount": 55555,
+        "type": "saldo_add",
+        "timestamp": "2026-06-29T15:57:46.308Z",
+        "details": "Admin dashboard — before: 0, after: 55555"
+      }
+    ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_92.jpg"
   },
   {
@@ -715,8 +716,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_150.jpg"
+    "history": []
   },
   {
     "id": 7853130064,
@@ -727,8 +727,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_151.jpg"
+    "history": []
   },
   {
     "id": 7744763131,
@@ -739,8 +738,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_152.jpg"
+    "history": []
   },
   {
     "id": 7083582178,
@@ -751,8 +749,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_153.jpg"
+    "history": []
   },
   {
     "id": 8613570652,
@@ -774,8 +771,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_154.jpg"
+    "history": []
   },
   {
     "id": 5654052731,
@@ -976,8 +972,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_155.jpg"
+    "history": []
   },
   {
     "id": 8415528438,
@@ -1024,8 +1019,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_156.jpg"
+    "history": []
   },
   {
     "id": 7404488079,
@@ -1060,8 +1054,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_136.jpg"
+    "history": []
   },
   {
     "id": 8967541120,
@@ -1084,8 +1077,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_140.jpg"
+    "history": []
   },
   {
     "id": 1148313207,
@@ -1096,15 +1088,14 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": [],
-    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_141.jpg"
+    "history": []
   },
   {
     "id": 8231375994,
     "username": "X",
     "first_name": "X",
     "last_name": "",
-    "join_date": "2026-06-29T15:59:26.832Z",
+    "join_date": "2026-06-29T15:59:31.869Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

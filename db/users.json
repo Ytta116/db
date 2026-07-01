@@ -1160,7 +1160,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_164.jpg"
   },
   {
     "id": 1391720498,
@@ -1180,6 +1181,18 @@
     "first_name": "⏤͟͟͞͞ 𝗦𝗧𝗬𝗭 〢 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ֎",
     "last_name": "",
     "join_date": "2026-07-01T07:54:15.874Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_171.jpg"
+  },
+  {
+    "id": 7135605746,
+    "username": "cyaastore2",
+    "first_name": "Ummi",
+    "last_name": "",
+    "join_date": "2026-07-01T10:20:40.205Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

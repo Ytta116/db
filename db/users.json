@@ -1136,6 +1136,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_161.jpg"
+  },
+  {
+    "id": 7648936150,
+    "username": "Jeffreypzctulz",
+    "first_name": "Jeffrey",
+    "last_name": "Cooperman",
+    "join_date": "2026-07-01T03:13:52.739Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

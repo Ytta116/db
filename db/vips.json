@@ -11,12 +11,6 @@
     "max_accounts": 5,
     "min_accounts": 0
   },
-  "478057203": {
-    "expiry": "2026-07-02T11:14:47.809Z",
-    "duration": 7,
-    "max_accounts": 1,
-    "min_accounts": 0
-  },
   "6243431908": {
     "expiry": "2029-03-16T09:27:50.543696+07:00",
     "duration": 999,

@@ -1301,7 +1301,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_180.jpg"
   },
   {
     "id": 8672559555,
@@ -1309,6 +1310,18 @@
     "first_name": "ell - Demistry",
     "last_name": "",
     "join_date": "2026-07-02T12:28:19.081Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_183.jpg"
+  },
+  {
+    "id": 8905881898,
+    "username": "why0r",
+    "first_name": "pil4r",
+    "last_name": "",
+    "join_date": "2026-07-02T16:28:00.385Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

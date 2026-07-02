@@ -1218,7 +1218,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_173.jpg"
   },
   {
     "id": 8130194459,
@@ -1237,6 +1238,18 @@
     "first_name": "Chester",
     "last_name": "Douglas",
     "join_date": "2026-07-02T03:17:50.457Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_172.jpg"
+  },
+  {
+    "id": 8460251283,
+    "username": "rezz_kimak",
+    "first_name": "ᴅᴀᴠɪᴅ",
+    "last_name": "#Forever",
+    "join_date": "2026-07-02T07:07:33.347Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

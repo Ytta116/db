@@ -1230,5 +1230,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7698111313,
+    "username": "Chester0ptul3r",
+    "first_name": "Chester",
+    "last_name": "Douglas",
+    "join_date": "2026-07-02T03:17:50.457Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

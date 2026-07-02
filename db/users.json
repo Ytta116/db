@@ -1265,7 +1265,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_177.jpg"
   },
   {
     "id": 8536203889,
@@ -1276,7 +1277,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_178.jpg"
   },
   {
     "id": 974468120,
@@ -1284,6 +1286,18 @@
     "first_name": "𝐕 𝐈 𝐎 𝐍 𝐘",
     "last_name": "",
     "join_date": "2026-07-02T07:56:54.207Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_179.jpg"
+  },
+  {
+    "id": 331444455,
+    "username": "tapaii",
+    "first_name": "Phạm Thanh Hương",
+    "last_name": "",
+    "join_date": "2026-07-02T08:09:48.637Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

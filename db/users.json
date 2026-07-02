@@ -1253,6 +1253,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_175.jpg"
+  },
+  {
+    "id": 5605735821,
+    "username": "personalisasi",
+    "first_name": "pànn shdw",
+    "last_name": "",
+    "join_date": "2026-07-02T07:52:29.787Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

@@ -246,8 +246,8 @@
     "first_name": "Я7 Vloryx - 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚",
     "last_name": "",
     "join_date": "2026-05-31T18:23:00.789Z",
-    "total_spent": 0,
-    "balance": 6500,
+    "total_spent": 6000,
+    "balance": 500,
     "total_deposit": 6500,
     "history": [
       {
@@ -256,6 +256,13 @@
         "type": "deposit",
         "timestamp": "2026-07-03T10:56:19.347Z",
         "details": "Deposit: Rp6500"
+      },
+      {
+        "product": "Akun ID 6",
+        "amount": 6000,
+        "type": "account",
+        "timestamp": "2026-07-03T10:56:30.918Z",
+        "details": "ACC ID: 6912242726 | Phone: 6281337978797 | Kategori ID: 6"
       }
     ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_63.jpg"

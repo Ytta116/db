@@ -1336,7 +1336,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_187.jpg"
   },
   {
     "id": 7780923444,
@@ -1347,7 +1348,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_184.jpg"
   },
   {
     "id": 7563874065,
@@ -1355,6 +1357,18 @@
     "first_name": "Eric",
     "last_name": "Boatman",
     "join_date": "2026-07-03T04:12:31.365Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_186.jpg"
+  },
+  {
+    "id": 7825054625,
+    "username": "xiaobing888777",
+    "first_name": "Silly",
+    "last_name": "Amelia",
+    "join_date": "2026-07-03T10:46:53.910Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

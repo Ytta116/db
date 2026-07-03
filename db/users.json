@@ -1410,6 +1410,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_189.jpg"
+  },
+  {
+    "id": 117265336,
+    "username": "kohze",
+    "first_name": "𝚣𝚎.𝚊𝚌𝚑𝚒𝚕𝚕𝚎𝚜",
+    "last_name": "- 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚",
+    "join_date": "2026-07-03T20:00:02.170Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

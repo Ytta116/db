@@ -1398,6 +1398,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_188.jpg"
+  },
+  {
+    "id": 935413916,
+    "username": "qoutz",
+    "first_name": "pédr¡nho",
+    "last_name": "",
+    "join_date": "2026-07-03T18:17:07.794Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

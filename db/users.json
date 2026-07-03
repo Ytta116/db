@@ -1348,5 +1348,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7563874065,
+    "username": "Eric557102j",
+    "first_name": "Eric",
+    "last_name": "Boatman",
+    "join_date": "2026-07-03T04:12:31.365Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

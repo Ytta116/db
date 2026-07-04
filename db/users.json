@@ -1423,5 +1423,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7216376604,
+    "username": "Pattiyb5uefr",
+    "first_name": "Patti",
+    "last_name": "Rone",
+    "join_date": "2026-07-04T04:17:05.891Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

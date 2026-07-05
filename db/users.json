@@ -1422,7 +1422,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_192.jpg"
   },
   {
     "id": 7216376604,
@@ -1433,7 +1434,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_190.jpg"
   },
   {
     "id": 8019946400,
@@ -1441,6 +1443,18 @@
     "first_name": "Allan",
     "last_name": "Dinh",
     "join_date": "2026-07-05T04:39:01.539Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_193.jpg"
+  },
+  {
+    "id": 5702281675,
+    "username": "sbisujshs",
+    "first_name": "Beyound",
+    "last_name": "",
+    "join_date": "2026-07-05T23:07:23.300Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

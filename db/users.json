@@ -1434,5 +1434,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 8019946400,
+    "username": "Allanwpjmqsu",
+    "first_name": "Allan",
+    "last_name": "Dinh",
+    "join_date": "2026-07-05T04:39:01.539Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

@@ -1469,6 +1469,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_195.jpg"
+  },
+  {
+    "id": 8075176311,
+    "username": "Robertpd4xwtv",
+    "first_name": "Robert",
+    "last_name": "Reper",
+    "join_date": "2026-07-07T06:20:56.307Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

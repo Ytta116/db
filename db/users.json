@@ -1481,14 +1481,15 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_197.jpg"
   },
   {
-    "id": 2118953545,
-    "username": "smokie_x_lopez",
-    "first_name": "felix",
-    "last_name": "ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‌‎ㅤㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎ㅤ‎",
-    "join_date": "2026-07-07T14:00:41.385Z",
+    "id": 8867771223,
+    "username": "Officiall_CoinMarketCap_Serviced",
+    "first_name": "CoinMarketCap Support Service",
+    "last_name": "",
+    "join_date": "2026-07-07T16:05:42.531Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

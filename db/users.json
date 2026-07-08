@@ -1516,6 +1516,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_200.jpg"
+  },
+  {
+    "id": 7584708612,
+    "username": "Zanezgq3hpk",
+    "first_name": "Zane",
+    "last_name": "Cavazos",
+    "join_date": "2026-07-08T13:37:38.897Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

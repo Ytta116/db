@@ -1493,7 +1493,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_199.jpg"
   },
   {
     "id": 8104827710,
@@ -1501,6 +1502,17 @@
     "first_name": "sigma",
     "last_name": "",
     "join_date": "2026-07-08T03:15:14.415Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 5212315744,
+    "username": "xiaoimei",
+    "first_name": "来财",
+    "last_name": "",
+    "join_date": "2026-07-08T05:08:37.674Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

@@ -1528,6 +1528,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_202.jpg"
+  },
+  {
+    "id": 8574545088,
+    "username": "Williams39427",
+    "first_name": "Williams",
+    "last_name": "Isabella",
+    "join_date": "2026-07-09T09:16:04.056Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

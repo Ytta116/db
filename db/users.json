@@ -1541,5 +1541,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 6486965120,
+    "username": "Suefq83szy",
+    "first_name": "Sue",
+    "last_name": "Hutchinson",
+    "join_date": "2026-07-09T14:05:26.479Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

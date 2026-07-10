@@ -1552,5 +1552,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7409066165,
+    "username": "Arthurasqvytn",
+    "first_name": "Arthur",
+    "last_name": "Jones",
+    "join_date": "2026-07-10T17:25:18.594Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

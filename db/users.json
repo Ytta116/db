@@ -1590,5 +1590,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 7646673100,
+    "username": "Chrise7ogxld",
+    "first_name": "Chris",
+    "last_name": "Ogden",
+    "join_date": "2026-07-11T23:54:41.393Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

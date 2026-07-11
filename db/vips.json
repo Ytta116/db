@@ -5,10 +5,34 @@
     "max_accounts": 5,
     "min_accounts": 0
   },
+  "201673097": {
+    "expiry": "2026-07-18T10:22:39.092Z",
+    "duration": 7,
+    "max_accounts": 1,
+    "min_accounts": 0
+  },
   "464514976": {
     "expiry": "2029-03-15T15:48:42.295701+07:00",
     "duration": 999,
     "max_accounts": 5,
+    "min_accounts": 0
+  },
+  "910999799": {
+    "expiry": "2029-03-30T12:19:02.217577+07:00",
+    "duration": 1000,
+    "max_accounts": 5,
+    "min_accounts": 0
+  },
+  "1148313207": {
+    "expiry": "2026-07-29T22:32:07.443863+07:00",
+    "duration": 30,
+    "max_accounts": 2,
+    "min_accounts": 0
+  },
+  "1243343122": {
+    "expiry": "2029-04-05T13:03:13.689947+07:00",
+    "duration": 999,
+    "max_accounts": 4,
     "min_accounts": 0
   },
   "6243431908": {
@@ -19,38 +43,20 @@
   },
   "7082551111": {
     "expiry": "2053-11-12T16:00:54.722767+07:00",
-    "duration": 9999.0,
+    "duration": 9999,
     "max_accounts": 10,
-    "min_accounts": 0
-  },
-  "1148313207": {
-    "expiry": "2026-07-29T22:32:07.443863+07:00",
-    "duration": 30.0,
-    "max_accounts": 2,
-    "min_accounts": 0
-  },
-  "910999799": {
-    "expiry": "2029-03-30T12:19:02.217577+07:00",
-    "duration": 1000.0,
-    "max_accounts": 5,
     "min_accounts": 0
   },
   "8017026193": {
     "expiry": "2053-11-25T12:21:36.040792+07:00",
-    "duration": 9999.0,
+    "duration": 9999,
     "max_accounts": 10,
     "min_accounts": 0
   },
   "1243343122\\": {
     "expiry": "2029-04-05T13:02:54.833483+07:00",
-    "duration": 999.0,
+    "duration": 999,
     "max_accounts": 3,
     "min_accounts": 2
-  },
-  "1243343122": {
-    "expiry": "2029-04-05T13:03:13.689947+07:00",
-    "duration": 999.0,
-    "max_accounts": 4,
-    "min_accounts": 0
   }
 }

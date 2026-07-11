@@ -34,5 +34,11 @@
     "duration": 1000.0,
     "max_accounts": 5,
     "min_accounts": 0
+  },
+  "8017026193": {
+    "expiry": "2053-11-25T12:21:36.040792+07:00",
+    "duration": 9999.0,
+    "max_accounts": 10,
+    "min_accounts": 0
   }
 }

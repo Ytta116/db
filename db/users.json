@@ -906,6 +906,13 @@
         "type": "deposit",
         "timestamp": "2026-07-11T10:21:18.023Z",
         "details": "Deposit: Rp10000"
+      },
+      {
+        "product": "VIP 7 Days / 1 Akun",
+        "amount": 10000,
+        "type": "vip",
+        "timestamp": "2026-07-11T10:22:39.101Z",
+        "details": "Target ID: 201673097, Maks. Akun: 1, Durasi: 7 hari"
       }
     ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_112.jpg"

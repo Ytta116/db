@@ -899,6 +899,13 @@
         "category": "Noktel",
         "timestamp": "2026-06-25T06:33:49.192Z",
         "details": "ID: 8421768029 | Kategori: Noktel | Nomor: 37866404099"
+      },
+      {
+        "product": "Deposit Saldo",
+        "amount": 10184,
+        "type": "deposit",
+        "timestamp": "2026-07-11T10:21:18.023Z",
+        "details": "Deposit: Rp10000"
       }
     ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_112.jpg"
@@ -1551,7 +1558,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_204.jpg"
   },
   {
     "id": 7409066165,
@@ -1562,6 +1570,7 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_207.jpg"
   }
 ]

@@ -1600,6 +1600,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_214.jpg"
+  },
+  {
+    "id": 8843884411,
+    "username": "hnze",
+    "first_name": "hnze",
+    "last_name": "",
+    "join_date": "2026-07-12T04:24:25.764Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

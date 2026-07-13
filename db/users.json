@@ -1670,14 +1670,15 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_219.jpg"
   },
   {
     "id": 7424089649,
     "username": "Asy4h",
     "first_name": "Aisyah 🍥",
     "last_name": "",
-    "join_date": "2026-07-13T15:48:44.704Z",
+    "join_date": "2026-07-13T15:48:56.214Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

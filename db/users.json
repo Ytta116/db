@@ -1679,8 +1679,8 @@
     "first_name": "Aisyah 🍥",
     "last_name": "",
     "join_date": "2026-07-13T15:48:56.214Z",
-    "total_spent": 7000,
-    "balance": 8000,
+    "total_spent": 14000,
+    "balance": 1000,
     "total_deposit": 15000,
     "history": [
       {
@@ -1696,6 +1696,13 @@
         "type": "account",
         "timestamp": "2026-07-13T15:55:29.514Z",
         "details": "ACC ID: 5278797717 | Phone: 6285815059685 | Kategori ID: 5"
+      },
+      {
+        "product": "Akun ID 5",
+        "amount": 7000,
+        "type": "account",
+        "timestamp": "2026-07-13T16:06:17.792Z",
+        "details": "ACC ID: 5482869844 | Phone: 6282117344074 | Kategori ID: 5"
       }
     ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_221.jpg"

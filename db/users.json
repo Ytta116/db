@@ -1703,6 +1703,13 @@
         "type": "account",
         "timestamp": "2026-07-13T16:06:17.792Z",
         "details": "ACC ID: 5482869844 | Phone: 6282117344074 | Kategori ID: 5"
+      },
+      {
+        "product": "Deposit Saldo",
+        "amount": 6233,
+        "type": "deposit",
+        "timestamp": "2026-07-14T06:54:55.639Z",
+        "details": "Deposit: Rp6000"
       }
     ],
     "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_221.jpg"

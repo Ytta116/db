@@ -70,5 +70,11 @@
     "duration": 30.0,
     "max_accounts": 3,
     "min_accounts": 0
+  },
+  "8696592750": {
+    "expiry": "2026-08-14T18:43:39.528774+07:00",
+    "duration": 30.0,
+    "max_accounts": 2,
+    "min_accounts": 0
   }
 }

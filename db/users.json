@@ -786,7 +786,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_238.jpg"
   },
   {
     "id": 6917714387,
@@ -1739,6 +1740,18 @@
     "first_name": "Liungs",
     "last_name": "",
     "join_date": "2026-07-14T16:53:10.988Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_237.jpg"
+  },
+  {
+    "id": 7657870780,
+    "username": "Gil1ik8q6n",
+    "first_name": "Gil",
+    "last_name": "Bouie",
+    "join_date": "2026-07-15T07:25:28.760Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

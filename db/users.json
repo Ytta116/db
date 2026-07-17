@@ -1755,7 +1755,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_239.jpg"
   },
   {
     "id": 8572930264,
@@ -1774,6 +1775,18 @@
     "first_name": "T O K ϟ O •🇪🇬• ±²⁰",
     "last_name": "",
     "join_date": "2026-07-16T22:44:41.230Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_243.jpg"
+  },
+  {
+    "id": 8459729762,
+    "username": "veinca",
+    "first_name": "apiwzyy",
+    "last_name": "",
+    "join_date": "2026-07-17T02:00:38.037Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,

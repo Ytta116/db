@@ -1790,6 +1790,18 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_248.jpg"
+  },
+  {
+    "id": 7886964139,
+    "username": "Maritzahyqhxss",
+    "first_name": "Maritza",
+    "last_name": "Radford",
+    "join_date": "2026-07-18T07:25:21.366Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
     "history": []
   }
 ]

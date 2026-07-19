@@ -1803,5 +1803,16 @@
     "balance": 0,
     "total_deposit": 0,
     "history": []
+  },
+  {
+    "id": 6801260178,
+    "username": "Charlesfykit8o",
+    "first_name": "Charles",
+    "last_name": "Mccalla",
+    "join_date": "2026-07-19T10:25:27.487Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
   }
 ]

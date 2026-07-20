@@ -1802,7 +1802,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_250.jpg"
   },
   {
     "id": 6801260178,
@@ -1813,7 +1814,8 @@
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
-    "history": []
+    "history": [],
+    "photo_url": "https://api.telegram.org/file/bot7752394870:AAGZJ5PMrtAaHHN-3BLz48CQO5i7mzfDASA/photos/file_251.jpg"
   },
   {
     "id": 7845341638,
@@ -1821,6 +1823,17 @@
     "first_name": "同.城.速约",
     "last_name": "｛老+师+免+费+上+榜｝",
     "join_date": "2026-07-20T06:55:58.046Z",
+    "total_spent": 0,
+    "balance": 0,
+    "total_deposit": 0,
+    "history": []
+  },
+  {
+    "id": 8198159745,
+    "username": "Susan9xxg6gb",
+    "first_name": "Susan",
+    "last_name": "Wiseman",
+    "join_date": "2026-07-20T11:30:42.773Z",
     "total_spent": 0,
     "balance": 0,
     "total_deposit": 0,
